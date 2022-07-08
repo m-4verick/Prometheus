@@ -5,5 +5,3 @@ from pandas import *
 from openpyxl import *
 from time import *
 from os import *
-
-print("hello world")
